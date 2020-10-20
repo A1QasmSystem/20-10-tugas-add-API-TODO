@@ -226,7 +226,7 @@ export default class Login extends Component {
                   placeholder="Task"
                   style={{
                     width: '80%',
-                    backgroundColor: '#456',
+                    backgroundColor: '#f1f1f1',
                     marginTop: 10,
                     borderRadius: 10,
                   }}
@@ -236,7 +236,7 @@ export default class Login extends Component {
                   placeholder="Desc"
                   style={{
                     width: '80%',
-                    backgroundColor: '#456',
+                    backgroundColor: '#f1f1f1',
                     marginTop: 10,
                     borderRadius: 10,
                   }}
